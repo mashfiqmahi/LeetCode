@@ -1,0 +1,29 @@
+# Compiled C++ files
+*.o
+*.out
+*.exe
+
+# Executable files without extensions
+a.out
+main
+test
+
+# VS Code
+.vscode/
+
+# VS Code Code Runner
+tempCodeRunnerFile.*
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Debug files
+gdb_history
+
+# OS files
+.DS_Store
+Thumbs.db
